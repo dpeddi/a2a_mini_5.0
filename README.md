@@ -1,9 +1,13 @@
+#A2A Mini 5.0
 
+https://it.aliexpress.com/item/1005005731655421.html
 
-Flash
+The firmware isn't the stock one, I've dumped the flash after a firmware upgrade.
+
+# Flash
 https://www.lcsc.com/datasheet/lcsc_datasheet_2005251034_XTX-XT25F128BSSIGT_C558844.pdf
 
-Flash reading with rpi
+# Flash reading with rpi
 https://tomvanveen.eu/flashing-bios-chip-raspberry-pi/
 
 
